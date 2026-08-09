@@ -52,7 +52,7 @@ aiosqlite>=0.19.0  # Async SQLite for test fixtures
 fhirclient==4.4.0  # SMART on FHIR Python client for HAPI FHIR integration
 
 # Synthea integration
-GitPython==3.1.57
+GitPython==3.1.58
 
 # Medical imaging
 pydicom==3.0.2
