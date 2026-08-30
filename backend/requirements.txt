@@ -52,7 +52,7 @@ aiosqlite>=0.19.0  # Async SQLite for test fixtures
 fhirclient==4.4.0  # SMART on FHIR Python client for HAPI FHIR integration
 
 # Synthea integration
-GitPython==3.1.57
+GitPython==3.1.60
 
 # Medical imaging
 pydicom==3.0.2
@@ -66,7 +66,7 @@ pylibjpeg-libjpeg==2.4.0
 
 # AI and utilities
 anthropic==0.120.0
-python-dotenv==1.2.2
+python-dotenv==1.2.3
 # LLM Providers
 openai>=1.0.0
 google-generativeai>=0.3.0
